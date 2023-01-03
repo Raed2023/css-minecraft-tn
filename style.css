@@ -1,0 +1,50 @@
+body{
+background-image: url("https://p4.wallpaperbetter.com/wallpaper/252/303/689/background-dirt-minecraft-minimalistic-wallpaper-preview.jpg");
+
+}
+
+ul{
+    display: flex;
+    justify-content:space-around;
+    list-style:none ;
+    
+    background-color: darkgreen;
+    height: 100px;
+    opacity:0.6;
+
+}
+li{
+    font-size: 30px;
+    padding-top: 30px;
+    width: 130px;
+    padding-left: 50px;
+    }
+
+    h1{
+        font-style: normal;
+        
+    }
+    h2{
+    font-size:xx-large;
+    font-style:initial;
+    color: bisque;
+    }
+    img{
+        height:500px;width:700px;
+    }
+p{
+position: absolute;
+left: 700px;
+margin-top: -400px;
+text-align: center;
+font-size: x-large;
+font-style: initial;
+background-color: white,;
+
+color: hotpink;
+}
+i{
+    cursor: pointer;
+    color: hotpink;
+
+}
